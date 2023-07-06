@@ -1,0 +1,18 @@
+body{
+    background-color: rgb(220, 252, 210);
+    padding: 15px;
+    padding-left: 25px;
+}
+
+h1{
+    background-color: rgb(255, 255, 255);
+    padding: 20px;
+
+}
+.image1{
+    width:250px;
+    height: 330px;
+}
+.name{
+    color:blueviolet;
+}
